@@ -8,3 +8,7 @@ action_table*.txt
 *.grm.hash
 prod_rules*.txt
 .stack-work
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
